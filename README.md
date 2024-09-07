@@ -1,1 +1,3 @@
-"# expenses_tracker-workshop" 
+# expenses_tracker
+
+A new Flutter project.
