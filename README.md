@@ -12,6 +12,6 @@ flutter pub add firebase_core
 
 dart pub global activate flutterfire_cli
 
-flutterfire configure --project=<...>
-
 flutter pub upgrade --major-versions
+
+flutterfire configure --project=<...>
