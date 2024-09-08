@@ -6,6 +6,8 @@ https://firebase.tools/bin/win/instant/latest
 
 npm install -g firebase-tools
 
+npm fund
+
 flutter pub add firebase_core
 
 dart pub global activate flutterfire_cli
